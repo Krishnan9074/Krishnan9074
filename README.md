@@ -1,1 +1,1 @@
-coding becoz idk anything else
+coding because idk anything else (idk how to code either :p)
