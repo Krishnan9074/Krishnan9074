@@ -1,4 +1,4 @@
-@@ -6,7 +6,7 @@
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnan-v-s-132678226/) 
 
 # 💻 Tech Stack:
